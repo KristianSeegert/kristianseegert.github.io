@@ -1,9 +1,11 @@
 ---
+# Template disabled: set published and nav to true to restore this page.
+published: false
 layout: page
 permalink: /teaching/
 title: teaching
 description: Course materials, schedules, and resources for classes taught.
-nav: true
+nav: false
 nav_order: 6
 calendar: true
 ---

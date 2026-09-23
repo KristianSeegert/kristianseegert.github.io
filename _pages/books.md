@@ -1,4 +1,6 @@
 ---
+# Template disabled: set published and nav to true to restore this page.
+published: false
 layout: book-shelf
 title: bookshelf
 permalink: /books/
